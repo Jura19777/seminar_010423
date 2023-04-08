@@ -18,7 +18,6 @@
 
 import time
 
-
 class TrafficLight(object):
     def __init__(self):
         self.__color = None
